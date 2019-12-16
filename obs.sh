@@ -1,6 +1,6 @@
  
 
-#Para instalar o obs
+#Para instalar o obs-derivados-debian
 #Autor:Ivens Ramon
 #email:ivens-oliveira@hotmail.com
 #===========================================================================================
